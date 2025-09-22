@@ -9,7 +9,7 @@ Bu proje, yazılım yolculuğumu ve kişisel notlarımı paylaşmak amacıyla ol
 ## 🌐 Canlı Site
 
 Projeyi tarayıcınızda görmek için:  
-[Kişisel Blogum](https://kisisel-blog-six.vercel.app/)
+[Kişisel Blogum](https://personal-blog-theta-nine.vercel.app/)
 
 ## 🛠️ Kullanılan Teknolojiler
 
